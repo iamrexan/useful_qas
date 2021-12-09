@@ -1,7 +1,7 @@
 # PHP OOPS:
 
 1) What is Inheritance?
-	When a class derives from another class
+	* When a class derives from another class
 
 
 * What is polymorphism?
