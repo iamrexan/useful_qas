@@ -1,6 +1,6 @@
 # PHP OOPS:
 
-* What is Inheritance?
+1) What is Inheritance?
 	When a class derives from another class
 
 
