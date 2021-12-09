@@ -1,6 +1,6 @@
-PHP OOPS:
+#PHP OOPS:
 
-What is Inheritance?
+*What is Inheritance?
 	When a class derives from another class
 
 
