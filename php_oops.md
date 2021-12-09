@@ -1,13 +1,13 @@
 #PHP OOPS:
 
-*What is Inheritance?
+* What is Inheritance?
 	When a class derives from another class
 
 
-What is polymorphism?
+* What is polymorphism?
 	Polymorphism in OOPs is a concept that allows you to create classes with different functionalities in a single interface.
 
-What is abstract class/methods?
+* What is abstract class/methods?
 	PHP has abstract classes and methods. Classes defined as abstract cannot be instantiated, and any class that contains at least one abstract method must also be abstract. Methods defined as abstract simply declare the method's signature; they cannot define the implementation.
 
 What is Interface?
