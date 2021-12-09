@@ -29,3 +29,6 @@ What is Magic methods?
 What is __invoke()?
 	__invoke() function is called when an object/class is tried to call as a function.
 	Ex: $obj = new Obj; echo $obj();
+	
+What is namespace?
+	In the broadest definition namespaces are a way of encapsulating items. it solve file name collisions problems.
